@@ -68,7 +68,7 @@
 <table>
   <tbody>
     <tr>
-        <td align="center"><a href="https://github.com/dlantjdgkgk"><img src="https://avatars.githubusercontent.com/u/79708688?v=4" width="120px;"  ><br /><sub><a href="https://github.com/dlantjdgkgk"><b>@dlantjdgkgk</b></sub></a><br/></td>
+        <td align="center"><a href="https://github.com/dlantjdgkgk"><img src="https://avatars.githubusercontent.com/u/79708688?v=4" width="120px;"  ><br /><sub><a href="https://github.com/dlantjdgkgk"><sub><b>@dlantjdgkgk</b></sub></a><br/></td>
       <td align="center"><a href="https://github.com/minh0518"><img src="https://avatars.githubusercontent.com/u/78631876?v=4" width="120px;" alt=""/><br /><sub><b>@minh0518</b></sub></a><br/></td>
                 <td align="center"><a href="https://github.com/sohy19"><img src="https://avatars.githubusercontent.com/u/88651937?v=4" width="120px;" alt=""/><br /><sub><b>@sohy19</b></sub></a><br/></td>
       <td align="center"><a href="https://github.com/oohyun-dev"><img src="https://avatars.githubusercontent.com/u/81623931?v=4" width="120px;" alt=""/><br /><sub><b>@soohyun-dev</b></sub></a><br/></td>
