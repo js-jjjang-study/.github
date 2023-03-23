@@ -77,7 +77,7 @@
     </tr>
     <tr>
         <td align="center">FE <br/><span style="font-weight : bold">무성</span></td>
-        <td align="center" >FE <br/><span style="font-weight : bold">민호</span></td>
+        <td align="center" >FE <br/><span style="font-weight : bold">민호(팀장)</span></td>
         <td align ="center"> FE <br/> <span style="font-weight : bold">소현</span></td>
         <td align="center">FE <br/> <span style="font-weight : bold">수현</span></td>
         <td align="center" >FE <br/> <span style="font-weight : bold">혜원</span></td>  
