@@ -73,6 +73,7 @@
                 <td align="center"><a href="https://github.com/sohy19"><img src="https://avatars.githubusercontent.com/u/88651937?v=4" width="120px;" alt=""/><br /><sub><b>@sohy19</b></sub></a><br/></td>
       <td align="center"><a href="https://github.com/oohyun-dev"><img src="https://avatars.githubusercontent.com/u/81623931?v=4" width="120px;" alt=""/><br /><sub><b>@soohyun-dev</b></sub></a><br/></td>
         <td align="center"><a href="https://github.com/leehyewon0531"><img src="https://avatars.githubusercontent.com/u/50830078?v=4" width="120px;" alt=""/><br /><sub><b>@leehyewon0531</b></sub></a><br/></td>
+            <td align="center"><a href="https://github.com/Collection50"><img src="https://avatars.githubusercontent.com/u/86355699?v=4" width="120px;" alt=""/><br /><sub><b>@Collection50</b></sub></a><br/></td>
     </tr>
     <tr>
         <td align="center">FE <br/><span style="font-weight : bold">무성</span></td>
@@ -80,6 +81,7 @@
         <td align ="center"> FE <br/> <span style="font-weight : bold">소현</span></td>
         <td align="center">FE <br/> <span style="font-weight : bold">수현</span></td>
         <td align="center" >FE <br/> <span style="font-weight : bold">혜원</span></td>  
+        <td align="center" >FE <br/> <span style="font-weight : bold">성민</span></td>  
     </tr>
     </tbody>
 </table>
